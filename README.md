@@ -43,11 +43,3 @@ Kontribusi sangat diterima! Silakan fork repositori dan ajukan pull request.
 ## Lisensi
 
 Proyek ini dilisensikan di bawah Lisensi MIT. Lihat file `LICENSE` untuk detailnya.
-
-## Penghargaan
-
-- [Dokumentasi Tailwind CSS](https://tailwindcss.com/docs)
-
-## Kontak
-
-Untuk pertanyaan atau masalah, silakan hubungi [email.anda@example.com](mailto:email.anda@example.com).
